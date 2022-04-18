@@ -11,6 +11,10 @@ Whole dataset is resize into 1280x1280 and split into training and validation in
 ## original Image
 ![image](crop.jpg)
 
+## Labels
+These are the selected symbols that I need to detect in orginal image.
+![image](legends.jpeg)
+
 ## Results 
 ![image](results.jpg)
 
