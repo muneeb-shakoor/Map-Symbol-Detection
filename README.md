@@ -9,9 +9,9 @@ with Yolo txt labels
 Whole dataset is resize into 1280x1280 and split into training and validation in 80:20 ratio.
 
 ## original Image
-![image](original_test.TIF)
+![image](original_test.tif)
 
 ## Results 
-![image](results.JPG)
+![image](results.jpg)
 
 
